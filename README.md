@@ -4,8 +4,7 @@
 - 📊 Data Analyst through the Google Data Analytics professional specialization program
 - 📡 B. Sc. in Cartographic and Surveying Engineering through the Federal University of Pernambuco - UFPE (Campus Recife)
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-lherme-Oliv&hide=contribs&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lherme-Oliv&layout=compact&theme=dark)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
