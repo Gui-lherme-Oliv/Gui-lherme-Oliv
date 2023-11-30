@@ -4,6 +4,8 @@
 - 📊 Data Analyst through the Google Data Analytics professional specialization program
 - 📡 B. Sc. in Cartographic and Surveying Engineering through the Federal University of Pernambuco - UFPE (Campus Recife)
 
+I am in a career transition to the field of data science and analysis, where I am currently focusing on improving my skills and gaining experience in Machine Learning; Business Intelligence; Python, R and SQL languages; ETL; Excel; PowerBI; Tableau; etc.
+
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-lherme-Oliv&hide=contribs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lherme-Oliv&layout=compact&theme=dark)
 
