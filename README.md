@@ -22,8 +22,7 @@ I am in a career transition to the field of data science and data analysis, wher
 ## Connect with me
 <div>
   <a href = "mailto:guigag3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href ="https://www.linkedin.com/in/guilherme-oliveira-da-rocha-cunha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="https://www.instagram.com/gui.lherme_oliv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"_blank"></a>
+  <a href ="https://www.linkedin.com/in/gui-lherme-oliv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
