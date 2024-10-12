@@ -1,23 +1,28 @@
-# Hi there, I'm Guilherme 👋
-- 💻 Data Scientist through the Americanas Futuro Polo Tech | Data Science training program
-- 📊 Data Analyst through the Google Data Analytics professional specialization program
-- 📡 B. Sc. in Cartographic and Surveying Engineering through the Federal University of Pernambuco - UFPE (Campus Recife)
+<div align="justify">
 
-I am currently seeking my first opportunity in the data field and I have been intensely focused on improving my skills in Machine Learning; Business Intelligence; Python, R and SQL languages; ETL; Excel; PowerBI; Tableau; etc.
+# Olá! Eu sou Guilherme 👋
+Sou Cientista de Dados, formado pelo programa de capacitação Americanas Futuro Polo Tech | Data Science, e Analista de Dados, certificado pelo programa de especialização profissional Google Data Analytics. Estou em busca da minha primeira oportunidade na área de dados e tenho me dedicado intensamente ao aprimoramento de minhas habilidades.
 
-## Github stats
+Conhecimentos:  
+🤖 Machine Learning  
+📊 Business Intelligence  
+💻 Linguagens de Programação: Python, R, SQL, JavaScript  
+🔄 ETL (Extract, Transform, Load)  
+🗄️ Bancos de Dados: Relacionais (SQL), NoSQL (MongoDB)  
+☁️ Cloud Computing: AWS, GCP  
+📈 Big Data: Apache Spark  
+📉 Ferramentas de visualização e análise de dados: Excel, Power BI, Qlik Sense  
+🖥️ Desenvolvimento Web: HTML, CSS, React  
+🌐 APIs Web (Web API)  
+🗂️ Versionamento de Código: Git, GitHub  
+
+</div>
+
+## Status do Github
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-lherme-Oliv&hide=contribs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lherme-Oliv&layout=compact&theme=dark)
 
-## Languages and Tools
-<div style="display: inline_block"><br>
-  <img align="center" alt="gui-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="gui-r" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="gui-powerbi" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
-  <img align="center" alt="gui-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-</div>
-
-## Connect with me
+## Vamos nos conectar!
 <div>
   <a href = "mailto:guigag3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href ="https://www.linkedin.com/in/gui-lherme-oliv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
