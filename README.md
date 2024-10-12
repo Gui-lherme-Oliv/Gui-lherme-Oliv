@@ -1,5 +1,3 @@
-<div align="justify">
-
 # Olá! Eu sou Guilherme 👋
 Sou Cientista de Dados, formado pelo programa de capacitação Americanas Futuro Polo Tech | Data Science, e Analista de Dados, certificado pelo programa de especialização profissional Google Data Analytics. Estou em busca da minha primeira oportunidade na área de dados e tenho me dedicado intensamente ao aprimoramento de minhas habilidades.
 
