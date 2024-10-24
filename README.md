@@ -1,21 +1,37 @@
 <div align="justify">
 
 # Olá! Eu sou Guilherme 👋
-Sou Cientista de Dados, formado pelo programa de capacitação Americanas Futuro Polo Tech | Data Science, e Analista de Dados, certificado pelo programa de especialização profissional Google Data Analytics. Estou em busca da minha primeira oportunidade na área de dados e tenho me dedicado intensamente ao aprimoramento de minhas habilidades.
+Sou Cientista de Dados, formado pelo programa de capacitação Americanas Futuro Polo Tech | Data Science, e Analista de Dados, certificado pelo programa de especialização profissional Google Data Analytics. Tenho me dedicado intensamente no aprimoramento de minhas habilidades em dados e busco uma oportunidade para aplicá-las, gerando valor para as empresas com soluções orientadas por dados.
 
-Conhecimentos:  
-🤖 Machine Learning  
-📊 Business Intelligence  
-💻 Linguagens de Programação: Python, R, SQL, JavaScript  
-🔄 ETL (Extract, Transform, Load)  
-🗄️ Bancos de Dados: Relacionais (SQL), NoSQL (MongoDB)  
-☁️ Cloud Computing: AWS, GCP  
-📈 Big Data: Apache Spark  
-📉 Ferramentas de visualização e análise de dados: Excel, Power BI, Qlik Sense  
-🖥️ Desenvolvimento Web: HTML, CSS, React  
-🌐 APIs Web (Web API)  
-🗂️ Versionamento de Código: Git, GitHub  
+Conhecimentos:
 
+📊 Análise de Dados e Business Intelligence
+ - Power BI, Qlik Sense, Excel
+ - Power Apps, Power Automate
+
+🤖 Machine Learning e Inteligência Artificial
+ - Modelagem de dados, treinamento e seleção de modelos
+ - Processamento de Linguagem Natural (NLP)
+ - Bibliotecas e frameworks: TensorFlow, PyTorch
+
+🔄 ETL (Extract, Transform, Load)
+ - Integração e transformação de dados
+ - Automação de fluxos de dados
+
+☁️ Big Data e Computação em Nuvem
+ - Apache Spark
+ - Cloud Computing: AWS, GCP
+
+🗄️ Bancos de Dados e Armazenamento de Dados
+ - Relacionais (SQL) e NoSQL (MongoDB)
+
+💻 Desenvolvimento e Engenharia de Software
+ - Linguagens de Programação: Python, R, SQL, JavaScript
+ - Desenvolvimento Web: HTML, CSS, React
+ - Versionamento de Código: Git, GitHub
+
+🌐 APIs e Integração
+ - APIs Web (Web API)
 </div>
 
 ## Status do Github
