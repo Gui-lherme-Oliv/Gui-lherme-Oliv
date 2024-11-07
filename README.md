@@ -5,13 +5,13 @@ Sou Cientista de Dados, formado pelo programa de capacitação Americanas Futuro
 
 Conhecimentos:
 
-📊 Análise de Dados e Business Intelligence
- - Power BI, Qlik Sense, Excel
- - Power Apps, Power Automate
+📊 Análise de Dados, Estatística e Business Intelligence
+ - Power BI, Excel, Power Apps
+ - Estatística descritiva e inferencial
 
 🤖 Machine Learning e Inteligência Artificial
  - Modelagem de dados, treinamento e seleção de modelos
- - Processamento de Linguagem Natural (NLP)
+ - Processamento de Linguagem Natural (PLN)
  - Bibliotecas e frameworks: TensorFlow, PyTorch
 
 🔄 ETL (Extract, Transform, Load)
@@ -23,7 +23,7 @@ Conhecimentos:
  - Cloud Computing: AWS, GCP
 
 🗄️ Bancos de Dados e Armazenamento de Dados
- - Relacionais (SQL) e NoSQL (MongoDB)
+ - Relacionais e NoSQL (MongoDB)
 
 💻 Desenvolvimento e Engenharia de Software
  - Linguagens de Programação: Python, R, SQL, JavaScript
@@ -31,7 +31,7 @@ Conhecimentos:
  - Versionamento de Código: Git, GitHub
 
 🌐 APIs e Integração
- - APIs Web (Web API)
+ - APIs Web (REST)
 </div>
 
 ## Status do Github
